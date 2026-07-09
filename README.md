@@ -38,7 +38,7 @@ A secure authentication system built with Laravel 12 and Laravel Fortify.
 
 ![Dashboard](screenshots/dashboard.png)
 
-### Enable Two-Factor Authentication
+### Two-Factor Authentication
 
 ![2FA](screenshots/two_factor_authentication.png)
 
@@ -49,6 +49,9 @@ A secure authentication system built with Laravel 12 and Laravel Fortify.
 ### OTP Verification
 
 ![OTP](screenshots/otp.png)
+
+### Enabled Two-Factor Authentication
+![2FA](screenshots/enabled.png)
 
 ## Installation
 
