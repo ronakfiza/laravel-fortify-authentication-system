@@ -40,11 +40,11 @@ A secure authentication system built with Laravel 12 and Laravel Fortify.
 
 ### Enable Two-Factor Authentication
 
-![2FA](screenshots/two-factor.png)
+![2FA](screenshots/two_factor_authentication.png)
 
 ### QR Code
 
-![QR Code](screenshots/qrcode.png)
+![QR Code](screenshots/bar_code.png)
 
 ### OTP Verification
 
